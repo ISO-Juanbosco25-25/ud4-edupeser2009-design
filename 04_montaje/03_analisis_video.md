@@ -1,7 +1,7 @@
 # 🔍 ANÁLISIS DEL VÍDEO DE MONTAJE
 
-## 👨‍💻 Alumno:
-## 🖥️ Equipo:
+## 👨‍💻 Alumno:Eduardo Perea
+## 🖥️ Equipo:16
 
 ---
 
