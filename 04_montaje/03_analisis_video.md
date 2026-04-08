@@ -1,6 +1,6 @@
 # 🔍 ANÁLISIS DEL VÍDEO DE MONTAJE
 
-## 👨‍💻 Alumno:Eduardo Perea
+## 👨‍💻 Alumno:Eduardo Perea Serna
 ## 🖥️ Equipo:16
 
 ---
