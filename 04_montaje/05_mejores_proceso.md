@@ -1,6 +1,6 @@
 # 🔧 PROPUESTAS DE MEJORA DEL PROCESO DE MONTAJE
 
-## 👨‍💻 Alumno:
+## 👨‍💻 Alumno:Eduardo Perea Serna
 ## 🖥️ Equipo:
 
 ---
@@ -25,28 +25,35 @@ Las mejoras deben ser:
 # 🟢 MEJORA 1
 
 📌 ¿Qué mejorarías?
-(Describe el cambio que harías)
+Las herramientas de seguridad montando componentes que me puedan dar electricidad
 
 📌 ¿Por qué?
-(Explica el motivo)
+Por que si se tiene cualuier fallo se tiene que tener cuidado y esta herramienta hace que se nos quite la parte de la electricidad estática
 
 📌 ¿Cómo lo harías mejor?
-(Explica el proceso correcto)
+Pues colocandomela y poner más cuidado en el montaje
 
 📌 ¿Qué beneficio tiene?
-(Ejemplo: evitar errores, mejorar rendimiento, mayor seguridad…)
-
+Una mayor seguridad en en el montaje
 ---
 
 # 🟢 MEJORA 2
 
 📌 ¿Qué mejorarías?
 
+El aprendizaje de los que montan los PCs
+
 📌 ¿Por qué?
+
+Por que evitariamos problemas 
 
 📌 ¿Cómo lo harías mejor?
 
+Pues haciendo que todos los trabajadores tubiran un manual de instrucciones de los fallos que se pueden tener
+
 📌 Beneficio:
+
+Menos problemas en el montaje
 
 ---
 
@@ -54,11 +61,19 @@ Las mejoras deben ser:
 
 📌 ¿Qué mejorarías?
 
+La calidad de las herramientas
+
 📌 ¿Por qué?
+
+Para tener una mejor precisión y no tener problemas en nada de lo que pueda romperse
 
 📌 ¿Cómo lo harías mejor?
 
+Pues comprando herramientas que sean de calidad y tengan una buena duración
+
 📌 Beneficio:
+
+Menos problemas al montar o desmontar un PC
 
 ---
 
@@ -66,7 +81,13 @@ Las mejoras deben ser:
 
 - ¿Crees que montar un equipo requiere experiencia? ¿Por qué?
 
+- Si y no, ya que si una persona sigue detalladamente un tutorial paso a paso puede montarla pero tendrías más margen de error
+
 - ¿Qué harías diferente si tuvieras que montar otro equipo desde cero?
 
+- La experiencia de los trebajadores
+
 - ¿Te ves capaz de montar un equipo tú solo/a? Justifica tu respuesta.
+
+- Si, ya que yo tengo un manual que puedo seguir paso a paso y no tendre problema en montarlo
 
